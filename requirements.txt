@@ -1,0 +1,4 @@
+feedparser
+requests
+python-dotenv
+mysql-connector-python==9.1.0
